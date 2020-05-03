@@ -21,7 +21,7 @@ Subtracts the required foreground and adds it to the required background!
 
 # Video:
 
-[Click here for Video](demo_video.mov)
+[Click here for Video](demo_video.mov?raw=true)
 
 
 
